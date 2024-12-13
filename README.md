@@ -1,7 +1,7 @@
 # 🐾 PawCheck  
 PawCheck is an innovative health management system designed to help dog owners easily detect eye diseases using advanced AI technology while providing valuable educational resources and product recommendations for pet care.
 
-##  C242-PS340
+##  Team C242-PS340
 
 | ID          | Name                          | University                                     | Specialization     | Status  |
 | ----------- | ----------------------------- | --------------------------------------------- | ------------------ | ------- |
@@ -13,4 +13,4 @@ PawCheck is an innovative health management system designed to help dog owners e
 | A323B4KY1151 | Dimaz Anugrahman Yusuf        | Universitas Tadulako                          | Mobile Development | Active  |
 | A437B4KY2980 | Muhammad Nurfadhli            | Universitas Islam Majapahit                   | Mobile Development | Active  |
 
-### Bangkit Academy Batch 2 2024 - Product Capstone Project
+### 🔥 Bangkit Academy Batch 2 2024 - Product Capstone Project
